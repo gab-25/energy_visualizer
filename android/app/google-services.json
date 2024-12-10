@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91948282855",
+    "project_id": "energy-visualizer-7c22f",
+    "storage_bucket": "energy-visualizer-7c22f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91948282855:android:fad8c8072921cae6784342",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxnGICX7aGc1aeq3phGLYrAHfNZmvIqWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
